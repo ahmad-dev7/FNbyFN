@@ -46,7 +46,7 @@ Check out the demo video below:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd flutter-internship-assignment
+   cd FNbyFN
    ```
 3. Install dependencies:
    ```bash
